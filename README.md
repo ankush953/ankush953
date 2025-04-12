@@ -1,16 +1,47 @@
-### Hi there 👋
+# 👋 Hello, I'm Ankush!
 
-<!--
-**ankush953/ankush953** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Software Engineer** at [CrowdStrike](https://www.crowdstrike.com/).  
+🔍 **Fullstack Developer**, passionate about solving problems, designing scalable systems, and staying at the forefront of technology.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ About Me
+I believe in exploring and mastering different technologies to solve real-world problems. From experimenting with **Python** and **Django** during college to becoming proficient in **Java**, **Spring Boot**, and **Go** at renowned companies, I've embraced every opportunity to grow. Currently, at CrowdStrike, I leverage my fullstack expertise, including **Ember.js**, to create meaningful impact.
+
+---
+
+## 🧰 Skills and Technologies
+- **Languages**: Go, Java, Python, JavaScript  
+- **Backend Frameworks**: Spring Boot, Django  
+- **Frontend**: Ember.js  
+- **Tools & Platforms**: GCP, Cloudflare, GitHub  
+- **Certifications**: Python, Web Development, GCP (via Udemy)
+
+---
+
+## 🌟 Featured Project
+### **[In-hand Calculator](https://inhandcalculator.com/)**
+An intuitive web tool aimed at enhancing productivity. Built with **Ember.js**, it's hosted on GCP with domains sourced via GoDaddy and DomainIndia. It exemplifies my fullstack abilities and dedication to learning.
+
+---
+
+## 🏆 Achievements
+- **ICPC Regionalist**: Twice qualified  
+- **HackWithInfy Finalist**: Onsite hackathon  
+- **Code Gladiators Finalist**: Onsite in Mumbai at Reliance Jio  
+- Completed multiple professional **certifications** in Python, Web Development, and GCP
+
+---
+
+## 💬 Connect with Me
+- **LinkedIn**: [Ankush Kumar Singh](https://www.linkedin.com/in/ankush-kumar-singh/)  
+- **Personal Website**: [In-hand Calculator](https://inhandcalculator.com/)
+
+---
+
+### 📝 Fun Fact
+*Yet to be discovered, just like the next big idea!*
+
+---
+
+_"The journey of a developer is a perpetual pursuit of knowledge."_  
